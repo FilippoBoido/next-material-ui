@@ -1,7 +1,7 @@
 function Footer() {
 
     return (
-        <div>I'm a Footer component</div>
+        <div>{"I'm a Footer component"}</div>
     )
 
 }
